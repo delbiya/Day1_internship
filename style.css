@@ -1,0 +1,39 @@
+
+  #about{
+      color: #810707;
+      text-align: center;
+      font-size:x-large
+  
+  }
+  #skill{
+      color:black;
+    text-align:center;
+   /* float: inline-start;*/
+     font-size: x-large;
+  }
+  header{
+      color:#be1a1a;
+      padding: 1em 0;
+      text-align: center;
+      font-size: xx-large;
+  
+  }
+  body{
+      background-image: url('https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-padrinan-255379.jpg&fm=jpg');
+  }
+  #home{
+      color:blue;
+      text-align: center;
+      font-size: x-large
+  }
+  #contact{
+      color:black;
+      text-align: center;
+      /*float: right*/;
+      font-size:x-large
+      
+  
+      
+  
+  
+  }
